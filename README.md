@@ -12,10 +12,10 @@
 
 ## Versions
 
-- Bun v1.0.6
-- TypeScript v5.2.2
-- ESLint v8.51.0
-- TypeScript-ESLint v6.8.0
-- Prettier v3.0.3
+- Bun v1.0.13
+- TypeScript v5.3.2
+- ESLint v8.54.0
+- TypeScript-ESLint v6.12.0
+- Prettier v3.1.0
 - Jest v29.7.0
 - TSJest v29.1.1
